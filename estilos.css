@@ -16,3 +16,11 @@ body{
     background-repeat: no-repeat;
 
 }
+.circuitoelectrico.jpg{
+
+height: 300px;
+width: 350px;
+background-image: url("circuitoelectrico.jpg");
+
+
+}
