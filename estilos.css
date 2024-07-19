@@ -5,22 +5,29 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(254, 254, 254);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url(Wallpaper.jpg);
-    background-repeat: no-repeat;
+    background-image: url(Wallpaper.jpg)
+    ;height: 100px;
+    width: 1300px;
+ 
 
 }
-.circuitoelectrico.jpg{
+.imgtecno.jpg{
 
 height: 300px;
 width: 350px;
-background-image: url("circuitoelectrico.jpg");
+background-image: url("imgtecno.jpg");
 
 
+}imgtecno.jpg{
+
+height: 300px;
+width: 300px;
+background-image: url("imgtecno.jpg2");
 }
