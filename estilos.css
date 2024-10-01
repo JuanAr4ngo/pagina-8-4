@@ -13,7 +13,7 @@
 }
 body{
     background-image: url(Wallpaper.jpg)
-    ;height: 100px;
+    ;height: 300px;
     width: 1300px;
  
 
@@ -163,4 +163,59 @@ width: 400px;
 background-image: url(excel\ 2.jpg);
 background-repeat: no-repeat;
 }
+.imginicio{
+height: 800px;
+width: 1000px;
+background-image: url(imginicio.png);
+background-repeat: no-repeat;
+
+}
+.imgconta{
+
+height: 700px;
+width: 700px;
+background-image: url(imgcontactos.png);
+background-repeat: no-repeat;
+float: left;
+
+}
+.imgconta2{
+
+height: 700px;
+width: 700px;
+background-image: url(imgcontactos2.png);
+background-repeat: no-repeat; 
+float: left;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
