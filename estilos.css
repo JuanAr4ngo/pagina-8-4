@@ -189,6 +189,65 @@ float: left;
 
 
 }
+.imgingles{
+
+height: 750px;
+width: 750px;
+background-image: url(imginglesp3.png);
+background-repeat: no-repeat;
+
+}
+.imgenglish{
+
+height: 700px;
+width: 700px;
+background-image: url(imgenglish1.png);
+background-repeat: no-repeat;
+}
+.imgenglish1{
+
+height: 450px;
+width: 600px;
+background-image: url(imgenglish2.png);
+background-repeat: no-repeat;
+}
+.imgenglish2{
+
+height: 450px;
+width: 700px;
+background-image: url(imgenglish3.png);
+background-repeat: no-repeat;
+
+
+}
+.imgenglish3{
+
+height: 550px;
+width: 700px;
+background-image: url(imgenglish4.png);
+background-repeat: no-repeat;
+
+}
+.imgenglish4{
+
+height: 400px;
+width: 600px;
+background-image: url(imgenglish5.png);
+background-repeat: no-repeat;
+
+
+}
+.imgenglish5{
+
+height: 600px;
+width: 600px;
+background-image: url(imgenglish6.png);
+background-repeat: no-repeat;
+
+
+}
+
+
 
 
 
